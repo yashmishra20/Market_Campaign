@@ -43,3 +43,10 @@
 
 ## Problem Statement:
 * **Objective:** The goal is to perform clustering to summarize customer segments.
+  
+## Results:
+- Executed a comprehensive customer personality analysis, to identify key customer segments and behaviors.
+- Implemented Label Encoding, Standardization, and PCA to enhance data quality and optimize clustering models.
+- Applied k-means clustering with WCSS and KneeLocator, identifying 3 clusters, achieving a Silhouette Score of 0.42.
+- Conducted Hierarchical clustering to determine 2 clusters, resulting in a Silhouette Score of 0.44.
+
